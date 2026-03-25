@@ -64,6 +64,7 @@ class ZeeshanModi:
 
 | Project | Description | Highlight |
 |---|---|---|
+| **[Automation Toolkit](https://github.com/Zeesejo/automation-toolkit)** | Modular Python automation suite — system monitor, file organizer, scheduler, backup, stats dashboard & desktop alerts | Built & shipped live — open source @ Litends |
 | **Pneumothorax Detection** | Chest X-ray classifier with shortcut learning mitigation | 1st Prize — UBRA Bremen AI in Health Hackathon |
 | **Smart Patient System** | Multilingual bedside hospital info system | 2nd Place — BRIDGE "Start it up! Gesundheit" |
 | **Medical Image Super-Resolution** | WGAN-GP + Self-Attention, PSNR/SSIM reporting | Enhanced perceptual quality vs baselines |
