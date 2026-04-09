@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/header.svg?v=2" width="100%" />
+<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/header.svg?v=3" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+AIIS+%40+University+of+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0;Founder+%40+Litends+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -148,4 +148,4 @@ class ZeeshanModi:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/footer.svg?v=2" width="100%" />
+<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/footer.svg?v=3" width="100%" />
