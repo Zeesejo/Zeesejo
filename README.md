@@ -1,13 +1,8 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Zeeshan&font=Fira+Code&color=54a0ff&fontSize=35&width=500&height=50&duration=4000" alt="Typing SVG" />
-</div>
+# Hi, I'm Zeeshan 👋
 
-
-<!-- Intro -->
 <div align="center">
 
-## AI/ML Engineer | NLP & Computer Vision | M.Sc. AIIS @ University of Bremen
+### AI/ML Engineer | NLP & Computer Vision | M.Sc. AIIS @ University of Bremen
 
 Building robust intelligent systems that bridge research and real-world impact.
 
@@ -30,8 +25,9 @@ Building robust intelligent systems that bridge research and real-world impact.
 
 <br/>
 
-<!-- Tech Stack -->
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -60,8 +56,9 @@ Building robust intelligent systems that bridge research and real-world impact.
 
 <br/>
 
-<!-- GitHub Stats -->
-## GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight" height="170" />
@@ -70,21 +67,7 @@ Building robust intelligent systems that bridge research and real-world impact.
 
 <br/>
 
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeesejo&theme=tokyonight" />
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeesejo&theme=tokyo-night" />
-</div>
-
-<br/>
-
 <!-- Trophy -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zeesejo&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zeesejo&theme=tokyonight&no-frame=true&row=1" />
 </div>
