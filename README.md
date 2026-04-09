@@ -81,22 +81,12 @@ class ZeeshanModi:
 
 <div align="center">
 
-<img src="https://github-readme-stats-henna-sigma-54.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" height="170">
+<img src="https://github-readme-stats-henna-sigma-54.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" height="170">
 <img src="https://github-readme-stats-henna-sigma-54.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="170">
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zeesejo&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-ten-rust.vercel.app/?username=Zeesejo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zeesejo&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=A855F7&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
