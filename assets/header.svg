@@ -2,13 +2,13 @@
   <defs>
     <linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'>
       <stop offset='0%' style='stop-color:#0D1117'/>
-      <stop offset='50%' style='stop-color:#003554'/>
+      <stop offset='40%' style='stop-color:#2D1B69'/>
       <stop offset='100%' style='stop-color:#0D1117'/>
     </linearGradient>
   </defs>
   <rect width='1200' height='180' fill='url(#grad)'/>
-  <path d='M0,100 C150,40 350,160 600,80 C850,0 1050,120 1200,60 L1200,180 L0,180 Z' fill='#00F7FF' opacity='0.15'/>
-  <path d='M0,120 C200,60 400,150 600,100 C800,50 1000,130 1200,80 L1200,180 L0,180 Z' fill='#00F7FF' opacity='0.1'/>
-  <text x='600' y='85' font-family='Segoe UI, Arial, sans-serif' font-size='40' font-weight='bold' fill='#FFFFFF' text-anchor='middle'>Zeeshan Modi</text>
-  <text x='600' y='120' font-family='Segoe UI, Arial, sans-serif' font-size='18' fill='#00F7FF' text-anchor='middle'>AI/ML Engineer | NLP &amp; Computer Vision</text>
+  <path d='M0,100 C150,40 350,160 600,80 C850,0 1050,120 1200,60 L1200,180 L0,180 Z' fill='#A855F7' opacity='0.3'/>
+  <path d='M0,120 C200,60 400,150 600,100 C800,50 1000,130 1200,80 L1200,180 L0,180 Z' fill='#7C3AED' opacity='0.25'/>
+  <text x='600' y='82' font-family='Segoe UI, Arial, sans-serif' font-size='42' font-weight='bold' fill='#FFFFFF' text-anchor='middle'>Zeeshan Modi</text>
+  <text x='600' y='118' font-family='Segoe UI, Arial, sans-serif' font-size='18' fill='#E2D9FF' text-anchor='middle'>AI/ML Engineer | NLP &amp; Computer Vision</text>
 </svg>
