@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.eu/?lines=Hello+I'm+Zeeshan&font=Fira+Code&color=54a0ff&fontSize=35&width=500&height=50&duration=4000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Zeeshan&font=Fira+Code&color=54a0ff&fontSize=35&width=500&height=50&duration=4000" alt="Typing SVG" />
 </div>
 
 
@@ -72,14 +72,14 @@ Building robust intelligent systems that bridge research and real-world impact.
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.eu/?user=Zeesejo&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeesejo&theme=tokyonight" />
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=Zeesejo&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeesejo&theme=tokyo-night" />
 </div>
 
 <br/>
