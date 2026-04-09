@@ -1,1 +1,90 @@
-PCEtLSBIZWFkZXIgLS0+CjxkaXYgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vcmVhZG1lLXR5cGluZy1zdmcuZGVtb2xhYi5ldS8/bGluZXM9SGVsbG8rSSdtK1plZXNoYW4mZm9udD1GaXJhK0NvZGUmY29sb3I9NTRhMGZmJmZvbnRTaXplPTM1JndpZHRoPTUwMCZoZWlnaHQ9NTAmZHVyYXRpb249NDAwMCIgYWx0PSJUeXBpbmcgU1ZHIiAvPgo8L2Rpdj4KCgo8IS0tIEludHJvIC0tPgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKIyMgQUkvTUwgRW5naW5lZXIgfCBOTFAgJiBDb21wdXRlciBWaXNpb24gfCBNLlNjLiBBSUlTIEAgVW5pdmVyc2l0eSBvZiBCcmVtZW4KCkJ1aWxkaW5nIHJvYnVzdCBpbnRlbGxpZ2VudCBzeXN0ZW1zIHRoYXQgYnJpZGdlIHJlc2VhcmNoIGFuZCByZWFsLXdvcmxkIGltcGFjdC4KCjwvZGl2PgoKPGJyLz4KCjwhLS0gU29jaWFsIEJhZGdlcyAtLT4KPGRpdiBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vemVlc2hhbi1tb2RpLyI+CiAgICA8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MaW5rZWRJbi0wQTY2QzI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWxpbmtlZGluJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8L2E+CiAgPGEgaHJlZj0ibWFpbHRvOnplZXNoYW4ubW9kaUBnbWFpbC5jb20iPgogICAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR21haWwtRDE0ODM2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1nbWFpbCZsb2dvQ29sb3I9d2hpdGUiIC8+CiAgPC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vTGl0ZW5kcy5jb20iPgogICAgPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGl0ZW5kcy0xMjEyMTI/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWludGVybmV0LWV4cGxvcmVyJmxvZ29Db2xvcj13aGl0ZSIgLz4KICA8L2E+CjwvZGl2PgoKPGJyLz4KCjwhLS0gVGVjaCBTdGFjayAtLT4KIyMgVGVjaCBTdGFjawoKPGRpdiBhbGlnbj0iY2VudGVyIj4KCiMjIyBMYW5ndWFnZXMKPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHl0aG9uLTM3NzZBQj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPXB5dGhvbiZsb2dvQ29sb3I9d2hpdGUiLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvQysrLTAwNTk5Qz9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWMlMkIlMkImbG9nb0NvbG9yPXdoaXRlIi8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1NRTC0wMDc0QzE/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1wb3N0Z3Jlc3FsJmxvZ29Db2xvcj13aGl0ZSIvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9CYXNoLTEyMTIxMj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWdudS1iYXNoJmxvZ29Db2xvcj13aGl0ZSIvPgoKIyMjIEFJIC8gTUwKPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUHlUb3JjaC1FRTRDMkM/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1weXRvcmNoJmxvZ29Db2xvcj13aGl0ZSIvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9UZW5zb3JGbG93LUZGNkYwMD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPXRlbnNvcmZsb3cmbG9nb0NvbG9yPXdoaXRlIi8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0h1Z2dpbmdGYWNlLUZGRDQxRD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWh1Z2dpbmdmYWNlJmxvZ29Db2xvcj1ibGFjayIvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9MYW5nQ2hhaW4tMUMzTDZBP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289Y2hhaW5saW5rJmxvZ29Db2xvcj13aGl0ZSIvPgo8aW1nIHNyYz0iaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9zY2lraXQtLWxlYXJuLUY3RTk1RD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPXNjaWtpdC1sZWFybiZsb2dvQ29sb3I9YmxhY2siLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvT3BlbkNWLTQ3QTk0MT9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPW9wZW5jdiZsb2dvQ29sb3I9d2hpdGUiLz4KCiMjIyBNTE9wcyAmIEluZnJhCjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0RvY2tlci0yNDk2RUQ/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1kb2NrZXImbG9nb0NvbG9yPXdoaXRlIi8+CjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0Zhc3RBUEktRkJDRDQ1P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289ZmFzdGFwaSZsb2dvQ29sb3I9YmxhY2siLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTUxmbG93LTAxOTRFMj9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPW1sZmxvdyZsb2dvQ29sb3I9d2hpdGUiLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR2l0SHViJTIwQWN0aW9ucy0yMDg4RkY/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1naXRodWItYWN0aW9ucyZsb2dvQ29sb3I9d2hpdGUiLz4KPGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvSHVnZ2luZ0ZhY2UlMjBTcGFjZXMtRkZENDFEP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289aHVnZ2luZ2ZhY2UmbG9nb0NvbG9yPWJsYWNrIi8+Cgo8L2Rpdj4KCjxici8+Cgo8IS0tIEdpdEh1YiBTdGF0cyAtLT4KIyMgR2l0SHViIFN0YXRzCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1yZWFkbWUtc3RhdHMudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9WmVlc2VqbyZzaG93X2ljb25zPXRydWUmdGhlbWU9dG9reW9uaWdodCIgaGVpZ2h0PSIxNzAiIC8+CiAgPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3MvP3VzZXJuYW1lPVplZXNlam8mbGF5b3V0PWNvbXBhY3QmdGhlbWU9dG9reW9uaWdodCIgaGVpZ2h0PSIxNzAiIC8+CjwvZGl2PgoKPGJyLz4KCjwhLS0gU3RyZWFrIFN0YXRzIC0tPgo8ZGl2IGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL3N0cmVhay1zdGF0cy5kZW1vbGFiLmV1Lz91c2VyPVplZXNlam8mdGhlbWU9dG9reW9uaWdodCIgLz4KPC9kaXY+Cgo8YnIvPgoKPCEtLSBBY3Rpdml0eSBHcmFwaCAtLT4KPGRpdiBhbGlnbj0iY2VudGVyIj4KICA8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItYWN0aXZpdHktZ3JhcGgudmVyY2VsLmFwcC9ncmFwaD91c2VybmFtZT1aZWVzZWpvJnRoZW1lPXRva3lvbmlnaHQiIC8+CjwvZGl2PgoKPGJyLz4KCjwhLS0gVHJvcGh5IC0tPgo8ZGl2IGFsaWduPSJjZW50ZXIiPgogIDxpbWcgc3JjPSJodHRwczovL2dpdGh1Yi1wcm9maWxlLXRyb3BoeS52ZXJjZWwuYXBwLz91c2VybmFtZT1aZWVzZWpvJnRoZW1lPXRva3lvbmlnaHQiIC8+CjwvZGl2Pgo=
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.eu/?lines=Hello+I'm+Zeeshan&font=Fira+Code&color=54a0ff&fontSize=35&width=500&height=50&duration=4000" alt="Typing SVG" />
+</div>
+
+
+<!-- Intro -->
+<div align="center">
+
+## AI/ML Engineer | NLP & Computer Vision | M.Sc. AIIS @ University of Bremen
+
+Building robust intelligent systems that bridge research and real-world impact.
+
+</div>
+
+<br/>
+
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/zeeshan-modi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zeeshan.modi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://Litends.com">
+    <img src="https://img.shields.io/badge/Litends-121212?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Tech Stack -->
+## Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-0074C1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-121212?style=flat-square&logo=gnu-bash&logoColor=white"/>
+
+### AI / ML
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD41D?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3L6A?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7E95D?style=flat-square&logo=scikit-learn&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-47A941?style=flat-square&logo=opencv&logoColor=white"/>
+
+### MLOps & Infra
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-FBCD45?style=flat-square&logo=fastapi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace%20Spaces-FFD41D?style=flat-square&logo=huggingface&logoColor=black"/>
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight" height="170" />
+</div>
+
+<br/>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.eu/?user=Zeesejo&theme=tokyonight" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=Zeesejo&theme=tokyonight" />
+</div>
+
+<br/>
+
+<!-- Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zeesejo&theme=tokyonight" />
+</div>
