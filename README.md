@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zeeshan%20Modi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20NLP%20%26%20Computer%20Vision&descAlignY=55&descSize=18" />
+![header](https://img.shields.io/badge/-%F0%9F%A4%96%20Zeeshan%20Modi%20%7C%20AI%2FML%20Engineer%20%7C%20NLP%20%26%20Computer%20Vision-0D1117?style=for-the-badge&logoColor=00F7FF)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=M.Sc.+AIIS+%40+University+of+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0;Founder+%40+Litends+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
@@ -148,4 +148,7 @@ class ZeeshanModi:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+---
+<div align="center">
+<sub>Made with ❤️ by Zeeshan Modi • <a href="https://litends.com">litends.com</a></sub>
+</div>
