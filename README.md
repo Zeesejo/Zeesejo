@@ -81,8 +81,8 @@ class ZeeshanModi:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github&cache_seconds=1800" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&cache_seconds=1800" height="170">
 
 <br/><br/>
 
