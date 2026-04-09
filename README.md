@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/header.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/header.svg?v=2" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=M.Sc.+AIIS+%40+University+of+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0;Founder+%40+Litends+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+AIIS+%40+University+of+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0;Founder+%40+Litends+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,11 +10,11 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeesejo)
 &nbsp;
-[![Website](https://img.shields.io/badge/litends.com-00F7FF?style=flat-square&logo=firefox&logoColor=white)](https://litends.com)
+[![Website](https://img.shields.io/badge/litends.com-A855F7?style=flat-square&logo=firefox&logoColor=white)](https://litends.com)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zeemaokik@gmail.com)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Zeesejo&color=00F7FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Zeesejo&color=A855F7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -81,12 +81,12 @@ class ZeeshanModi:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&rank_icon=github" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="170">
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zeesejo&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zeesejo&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)](https://git.io/streak-stats)
 
 </div>
 
@@ -137,7 +137,7 @@ class ZeeshanModi:
 
 <div align="center">
 
-![English](https://img.shields.io/badge/English-C1_Advanced-00F7FF?style=flat-square&logoColor=white)
+![English](https://img.shields.io/badge/English-C1_Advanced-A855F7?style=flat-square&logoColor=white)
 ![German](https://img.shields.io/badge/German-A2-555555?style=flat-square)
 ![Hindi](https://img.shields.io/badge/Hindi-Native-FF6F00?style=flat-square)
 ![Urdu](https://img.shields.io/badge/Urdu-B2-9B59B6?style=flat-square)
@@ -148,4 +148,4 @@ class ZeeshanModi:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/footer.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/footer.svg?v=2" width="100%" />
