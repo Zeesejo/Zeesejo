@@ -89,7 +89,7 @@ class ZeeshanModi:
 
 <div align="center">
 
-<img src="https://github-readme-stats-henna-sigma-54.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" height="170">
+<!-- [GitHub Stats images disabled due to API rate limiting - Zeesejo/571] username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" height="170">
 <img src="https://github-readme-stats-henna-sigma-54.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="170">
 
 <br/><br/>
@@ -99,6 +99,7 @@ class ZeeshanModi:
 <br/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zeesejo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=00F7FF&point=FF6B00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 </div>
 
