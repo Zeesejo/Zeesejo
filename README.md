@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/header.svg?v=3" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+AIIS+%40+University+of+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0;Founder+%40+Litends+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+AIIS+%40+University+of+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0;Founder+%40+Litends+%7C+Open+Source+Enthusiast;Open+to+Work+%E2%80%94+Bremen+%7C+Remote+%7C+Germany)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,6 +20,13 @@
 
 <br/>
 
+> ### 🟢 Open to Opportunities — Bremen · Remote · Germany
+> AI/ML Engineer (M.Sc.) available for **Working Student (Werkstudent)**, **Internship**, or **Junior AI/ML Engineer** roles.
+> Strong background in NLP, Computer Vision & Medical AI. Fluent in English, improving German (A2→B1).
+> 📩 [zeemaokik@gmail.com](mailto:zeemaokik@gmail.com) · 🔗 [linkedin.com/in/zeesejo](https://linkedin.com/in/zeesejo)
+
+<br/>
+
 ## 🧬 About Me
 
 ```python
@@ -31,6 +38,7 @@ class ZeeshanModi:
         self.location   = "Bremen, Germany 📍"
         self.focus      = ["Model Robustness", "Medical Imaging", "NLP Systems", "MLOps"]
         self.languages  = ["Python", "C++", "SQL", "Bash"]
+        self.available  = True  # Open to Werkstudent / Junior AI roles in Germany
 
     def currently(self):
         return "Building intelligent systems that bridge research & real-world impact 🚀"
@@ -88,20 +96,24 @@ class ZeeshanModi:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zeesejo&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=A855F7&dates=FFFFFF)](https://git.io/streak-stats)
 
+<br/>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zeesejo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=00F7FF&point=FF6B00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 <br/>
 
 ## 🚀 Selected Projects
 
-| 🗂️ Project | 📝 Description | 🏅 Highlight |
-|---|---|---|
-| **[Automation Toolkit](https://github.com/Zeesejo/automation-toolkit)** | Modular Python suite — system monitor, file organizer, scheduler, backup, stats dashboard | Open source @ Litends 🚀 |
-| **Pneumothorax Detection** | Chest X-ray classifier with shortcut learning mitigation | 🥇 1st Prize — UBRA Bremen AI in Health Hackathon |
-| **Smart Patient System** | Multilingual bedside hospital info system | 🥈 2nd Place — BRIDGE "Start it up! Gesundheit" |
-| **Medical Image Super-Resolution** | WGAN-GP + Self-Attention, PSNR/SSIM optimised | Enhanced perceptual quality vs baselines |
-| **Cybersecurity Threat Detection** | Phishing/spam/non-SSL ML detection | 📄 Paper accepted — AISP 2024 |
-| **Career Pathway Recommender** | ML/DL personalised career recommendations | 📄 Paper accepted — ICAAICS 2024 |
+| 🗂️ Project | 📝 Description | 🔧 Stack | 🏅 Highlight |
+|---|---|---|---|
+| **[Automation Toolkit](https://github.com/Zeesejo/automation-toolkit)** | Modular Python suite — system monitor, file organizer, scheduler, backup, stats dashboard | Python, Click, Rich | Open source @ Litends 🚀 |
+| **Pneumothorax Detection** | Chest X-ray classifier with shortcut learning mitigation using deep learning | PyTorch, OpenCV, DICOM | 🥇 1st Prize — UBRA Bremen AI in Health Hackathon |
+| **Smart Patient System** | Multilingual bedside hospital info system with NLP-powered Q&A | Python, FastAPI, HuggingFace | 🥈 2nd Place — BRIDGE "Start it up! Gesundheit" |
+| **Medical Image Super-Resolution** | WGAN-GP + Self-Attention architecture, PSNR/SSIM optimised | PyTorch, TorchVision | Enhanced perceptual quality vs baselines |
+| **Cybersecurity Threat Detection** | Phishing/spam/non-SSL ML detection pipeline | scikit-learn, XGBoost | 📄 Paper accepted — AISP 2024 |
+| **Career Pathway Recommender** | ML/DL personalised career recommendations using embeddings | PyTorch, Transformers | 📄 Paper accepted — ICAAICS 2024 |
 
 <br/>
 
@@ -123,12 +135,33 @@ class ZeeshanModi:
 
 <br/>
 
+## 🤝 What I'm Looking For
+
+<div align="center">
+
+| Role Type | Format | Location |
+|---|---|---|
+| 🎓 Werkstudent (Working Student) | Part-time (20h/week) | Bremen · Hamburg · Remote |
+| 🏢 Junior AI/ML Engineer | Full-time | Germany · Remote (EU) |
+| 🔬 Research Assistant (HiWi) | Part-time | University of Bremen |
+| 🚀 AI Internship | 3–6 months | Germany · Remote |
+
+</div>
+
+**Core strengths recruiters care about:**
+- ✅ Published research (2× conference papers, 2024)
+- ✅ Hackathon wins with real medical AI impact (Bremen-based)
+- ✅ Production-ready ML pipelines (Docker · FastAPI · MLflow · CI/CD)
+- ✅ Based in Bremen, EU work authorisation via student visa
+
+<br/>
+
 ## 🌍 Languages
 
 <div align="center">
 
 ![English](https://img.shields.io/badge/English-C1_Advanced-A855F7?style=flat-square&logoColor=white)
-![German](https://img.shields.io/badge/German-A2-555555?style=flat-square)
+![German](https://img.shields.io/badge/German-A2%E2%86%92B1-555555?style=flat-square)
 ![Hindi](https://img.shields.io/badge/Hindi-Native-FF6F00?style=flat-square)
 ![Urdu](https://img.shields.io/badge/Urdu-B2-9B59B6?style=flat-square)
 ![Turkish](https://img.shields.io/badge/Turkish-A2-E74C3C?style=flat-square)
