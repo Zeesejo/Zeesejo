@@ -89,27 +89,56 @@ class ZeeshanModi:
 
 <div align="center">
 
-<!-- [GitHub Stats images disabled due to API rate limiting - Zeesejo/571] username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" height="170">
-<img src="https://github-readme-stats-henna-sigma-54.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="170">
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zeesejo&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=A855F7&dates=FFFFFF)](https://git.io/streak-stats)
-
-<br/>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zeesejo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=00F7FF&point=FF6B00)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
-</div>
-
-<br/>
 
 ## 🚀 Selected Projects
 
 | 🗂️ Project | 📝 Description | 🔧 Stack | 🏅 Highlight |
 |---|---|---|---|
-| **[Automation Toolkit](https://github.com/Zeesejo/automation-toolkit)** | Modular Python suite — system monitor, file organizer, scheduler, backup, stats dashboard | Python, Click, Rich | Open source @ Litends 🚀 |
+| **[Automation Toolkit](https://github.com/Zeesejo/automation-toolkit)** | Modular Python suite — system monitor, file organizer, scheduler, 
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Zeesejo&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F7FF&text_color=FFFFFF)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zeesejo&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6F00&currStreakLabel=00F7FF)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🚀 Open Source Contributions
+
+**Merged PRs in major repos** (2025-2026):
+
+- 🎯 **Project-MONAI/MONAI** [✓ #8836](https://github.com/Project-MONAI/MONAI/pull/8836) | `fix(apps/nuclick): replace np.random.choice with self.R.choice`
+- 🎯 **Project-MONAI/MONAI** [✓ #8818](https://github.com/Project-MONAI/MONAI/pull/8818) | `fix: use register_buffer for kernel in LocalNormalizedCrossCorrelationLoss`  
+- 🎯 **dfki-ric/deformable_gym** [✓ #73](https://github.com/dfki-ric/deformable_gym/pull/73) | `Fix #62: Update MJCF files to support MuJoCo >= 3.2.4`
+
+**Active PRs / Issues:**
+
+- 🛠️ **Project-MONAI/MONAI** [#8866](https://github.com/Project-MONAI/MONAI/issues/8866) | Bug report: `GlobalMutualInformationLoss` buffer registration issue
+- 🛠️ **roboflow/supervision** [#2205](https://github.com/roboflow/supervision/pull/2205), [#2204](https://github.com/roboflow/supervision/pull/2204) | CSV area column + audio preservation fixes
+
+**Why this matters for employers:**  
+✓ Merged contributions to **700K+ GitHub stars** projects (MONAI: medical AI industry standard)  
+✓ Deep debugging skills (kernel registration, buffer management, MuJoCo 3.2.4 compatibility)  
+✓ Production-ready code that ships to thousands of users
+
+---
+
+backup, stats dashboard | Python, Click, Rich | Open source @ Litends 🚀 |
 | **Pneumothorax Detection** | Chest X-ray classifier with shortcut learning mitigation using deep learning | PyTorch, OpenCV, DICOM | 🥇 1st Prize — UBRA Bremen AI in Health Hackathon |
 | **Smart Patient System** | Multilingual bedside hospital info system with NLP-powered Q&A | Python, FastAPI, HuggingFace | 🥈 2nd Place — BRIDGE "Start it up! Gesundheit" |
 | **Medical Image Super-Resolution** | WGAN-GP + Self-Attention architecture, PSNR/SSIM optimised | PyTorch, TorchVision | Enhanced perceptual quality vs baselines |
