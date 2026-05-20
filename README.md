@@ -122,7 +122,10 @@ class ZeeshanModi:
 
 **Merged PRs in major repos** (2025-2026):
 
-- 🎯 **Project-MONAI/MONAI** [✓ #8836](https://github.com/Project-MONAI/MONAI/pull/8836) | `fix(apps/nuclick): replace np.random.choice with self.R.choice`
+
+---
+
+lf.R.choice`
 - 🎯 **Project-MONAI/MONAI** [✓ #8818](https://github.com/Project-MONAI/MONAI/pull/8818) | `fix: use register_buffer for kernel in LocalNormalizedCrossCorrelationLoss`  
 - 🎯 **dfki-ric/deformable_gym** [✓ #73](https://github.com/dfki-ric/deformable_gym/pull/73) | `Fix #62: Update MJCF files to support MuJoCo >= 3.2.4`
 
@@ -131,14 +134,6 @@ class ZeeshanModi:
 - 🛠️ **Project-MONAI/MONAI** [#8866](https://github.com/Project-MONAI/MONAI/issues/8866) | Bug report: `GlobalMutualInformationLoss` buffer registration issue
 - 🛠️ **roboflow/supervision** [#2205](https://github.com/roboflow/supervision/pull/2205), [#2204](https://github.com/roboflow/supervision/pull/2204) | CSV area column + audio preservation fixes
 
-**Why this matters for employers:**  
-✓ Merged contributions to **700K+ GitHub stars** projects (MONAI: medical AI industry standard)  
-✓ Deep debugging skills (kernel registration, buffer management, MuJoCo 3.2.4 compatibility)  
-✓ Production-ready code that ships to thousands of users
-
----
-
-backup, stats dashboard | Python, Click, Rich | Open source @ Litends 🚀 |
 | **Pneumothorax Detection** | Chest X-ray classifier with shortcut learning mitigation using deep learning | PyTorch, OpenCV, DICOM | 🥇 1st Prize — UBRA Bremen AI in Health Hackathon |
 | **Smart Patient System** | Multilingual bedside hospital info system with NLP-powered Q&A | Python, FastAPI, HuggingFace | 🥈 2nd Place — BRIDGE "Start it up! Gesundheit" |
 | **Medical Image Super-Resolution** | WGAN-GP + Self-Attention architecture, PSNR/SSIM optimised | PyTorch, TorchVision | Enhanced perceptual quality vs baselines |
