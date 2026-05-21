@@ -6,8 +6,6 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Zeesejo?label=Follow&style=social)](https://github.com/Zeesejo)
-&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeesejo)
 &nbsp;
 [![Website](https://img.shields.io/badge/litends.com-A855F7?style=flat-square&logo=firefox&logoColor=white)](https://litends.com)
