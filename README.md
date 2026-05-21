@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+AIIS+%40+University+of+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0;Founder+%40+Litends+%7C+Open+Source+Enthusiast;Open+to+Work+%E2%80%94+Bremen+%7C+Remote+%7C+Germany)](https://git.io/typing-svg)
 
 <br/>
+<a href="https://github.com/Zeesejo?tab=followers"><img src="https://img.shields.io/github/followers/Zeesejo?label=Followers&style=social" /></a>
+&nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeesejo)
 &nbsp;
