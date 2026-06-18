@@ -20,31 +20,29 @@
 
 <br/>
 
-> ### 🟢 Open to Opportunities — Bremen · Remote · Germany
-> AI/ML Engineer (M.Sc.) available for **Working Student (Werkstudent)**, **Internship**, or **Junior AI/ML Engineer** roles.
+> ### Open to Opportunities — Bremen • Remote • Germany> AI/ML Engineer (M.Sc.) available for **Working Student (Werkstudent)**, **Internship**, or **Junior AI/ML Engineer** roles.
 > Strong background in NLP, Computer Vision & Medical AI. Fluent in English, improving German (A2→B1).
 > 📩 [zeemaokik@gmail.com](mailto:zeemaokik@gmail.com) · 🔗 [linkedin.com/in/zeesejo](https://linkedin.com/in/zeesejo)
 
 <br/>
 
-## 🧬 About Me
-
+## About Me
 ```python
 class ZeeshanModi:
     def __init__(self):
         self.role       = "AI/ML Engineer — NLP & Computer Vision"
         self.education  = "M.Sc. AIIS @ University of Bremen 🇩🇪"
         self.company    = "Founder & CEO @ Litends"
-        self.location   = "Bremen, Germany 📍"
+        self.location   = "Bremen, Germany 
         self.focus      = ["Model Robustness", "Medical Imaging", "NLP Systems", "MLOps"]
         self.languages  = ["Python", "C++", "SQL", "Bash"]
         self.available  = True  # Open to Werkstudent / Junior AI roles in Germany
 
     def currently(self):
-        return "Building intelligent systems that bridge research & real-world impact 🚀"
+        return "Building intelligent systems that bridge research & real-world impact 
 
     def fun_fact(self):
-        return "I speak 6 languages — including Python 🐍"
+        return "I speak 6 languages — including Python"
 ```
 
 <br/>
@@ -89,15 +87,12 @@ class ZeeshanModi:
 
 <div align="center">
 
-
-## 🚀 Selected Projects
-
+## Selected Projects
 | 🗂️ Project | 📝 Description | 🔧 Stack | 🏅 Highlight |
 |---|---|---|---|
 | **[Automation Toolkit](https://github.com/Zeesejo/automation-toolkit)** | Modular Python suite — system monitor, file organizer, scheduler, 
 
-## 🏆 GitHub Achievements
-
+## GitHub Achievements
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=Zeesejo&theme=tokyonight&no-frame=true&row=1&column=7)
@@ -122,8 +117,7 @@ class ZeeshanModi:
 
 **Merged PRs in major repos** (2025-2026):
 
-
----
+## Open Source Contributions---
 
 lf.R.choice`
 - 🎯 **Project-MONAI/MONAI** [✓ #8818](https://github.com/Project-MONAI/MONAI/pull/8818) | `fix: use register_buffer for kernel in LocalNormalizedCrossCorrelationLoss`  
@@ -146,22 +140,19 @@ lf.R.choice`
 
 ```
 🏢  09/2023 – Present    Founder & CEO           @ Litends               (AI & Digital Solutions Studio)
-💻  01/2025 – 04/2025    AI/ML Engineer Intern   @ Techlive Solutions     (ML prototypes, REST APIs)
-📊  11/2024 – 12/2024    Data Scientist          @ Accenture Forage       (Job Simulation)
+## Experience📊  11/2024 – 12/2024    Data Scientist          @ Accenture Forage       (Job Simulation)
 ```
 
 ## 🎓 Education
 
 ```
 🎓  10/2025 – Present    M.Sc. AI & Intelligent Systems (AIIS)    @ University of Bremen, Germany
-🎓  07/2021 – 06/2025    B.E. CS & Engineering (AIML, IBM Hons.)  @ Chandigarh University, India
-✈️  01/2023 – 06/2023    Exchange Semester (Computer Science)      @ Bilkent University, Ankara
+## Education✈️  01/2023 – 06/2023    Exchange Semester (Computer Science)      @ Bilkent University, Ankara
 ```
 
 <br/>
 
-## 🤝 What I'm Looking For
-
+## What I'm Looking For
 <div align="center">
 
 | Role Type | Format | Location |
