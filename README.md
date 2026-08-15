@@ -1,190 +1,70 @@
-<div align="center">
+# Zeeshan Modi
 
-<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/header.svg?v=3" width="100%" />
+**M.Sc. Artificial Intelligence & Intelligent Systems · University of Bremen**  
+AI/ML · Robotics · Computer Vision · Medical AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+AIIS+%40+University+of+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0;Founder+%40+Litends+%7C+Open+Source+Enthusiast;Open+to+Work+%E2%80%94+Bremen+%7C+Remote+%7C+Germany)](https://git.io/typing-svg)
+I build machine-learning and robotic systems with an emphasis on reproducible experiments, real-world engineering, and responsible evaluation. My current interests include medical imaging, robot autonomy, multimodal/biosignal learning, explainable AI, and applied AI systems.
 
-<br/>
-<a href="https://github.com/Zeesejo?tab=followers"><img src="https://img.shields.io/github/followers/Zeesejo?label=Followers&style=social" /></a>
-&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeesejo)
-&nbsp;
-[![Website](https://img.shields.io/badge/litends.com-A855F7?style=flat-square&logo=firefox&logoColor=white)](https://litends.com)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zeemaokik@gmail.com)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Zeesejo&color=A855F7&style=flat-square&label=Profile+Views)
-
-</div>
-
-<br/>
-
-> ### Open to Opportunities — Bremen • Remote • Germany> AI/ML Engineer (M.Sc.) available for **Working Student (Werkstudent)**, **Internship**, or **Junior AI/ML Engineer** roles.
-> Strong background in NLP, Computer Vision & Medical AI. Fluent in English, improving German (A2→B1).
-> 📩 [zeemaokik@gmail.com](mailto:zeemaokik@gmail.com) · 🔗 [linkedin.com/in/zeesejo](https://linkedin.com/in/zeesejo)
-
-<br/>
-
-## About Me
-```python
-class ZeeshanModi:
-    def __init__(self):
-        self.role       = "AI/ML Engineer — NLP & Computer Vision"
-        self.education  = "M.Sc. AIIS @ University of Bremen 🇩🇪"
-        self.company    = "Founder & CEO @ Litends"
-        self.location   = "Bremen, Germany 
-        self.focus      = ["Model Robustness", "Medical Imaging", "NLP Systems", "MLOps"]
-        self.languages  = ["Python", "C++", "SQL", "Bash"]
-        self.available  = True  # Open to Werkstudent / Junior AI roles in Germany
-
-    def currently(self):
-        return "Building intelligent systems that bridge research & real-world impact 
-
-    def fun_fact(self):
-        return "I speak 6 languages — including Python"
-```
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Core Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3L6A?style=for-the-badge&logo=chainlink&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**MLOps & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![HuggingFace Spaces](https://img.shields.io/badge/HF_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-## Selected Projects
-| 🗂️ Project | 📝 Description | 🔧 Stack | 🏅 Highlight |
-|---|---|---|---|
-| **[Automation Toolkit](https://github.com/Zeesejo/automation-toolkit)** | Modular Python suite — system monitor, file organizer, scheduler, 
-
-## GitHub Achievements
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Zeesejo&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
+[LinkedIn](https://linkedin.com/in/zeesejo) · [Portfolio](https://litends.com)
 
 ---
 
-## 📊 GitHub Stats
+## Selected work
 
-<div align="center">
+### 🩻 [MedVision-AI](https://github.com/Zeesejo/medvision-ai)
+Research codebase for **multi-label chest X-ray classification** on NIH ChestX-ray14. The project explores CNN backbones, asymmetric loss, explainability, self-supervised learning, and subgroup evaluation.
 
-![](https://github-readme-stats.vercel.app/api?username=Zeesejo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F7FF&text_color=FFFFFF)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zeesejo&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6F00&currStreakLabel=00F7FF)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeesejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
+**Current committed baseline results:** DenseNet-121 mean AUROC **0.7978** and ResNet-50 mean AUROC **0.7067** across 14 pathologies. The repository is currently being reorganized for stronger reproducibility and publication-quality experiments.
 
-</div>
+`PyTorch` `timm` `Computer Vision` `Medical AI` `Grad-CAM` `W&B`
+
+### 🛰️ [Gravloc](https://github.com/Zeesejo/gravloc)
+Early engineering prototype for spacecraft-hardware discovery and comparison: datasheet extraction, semantic search, requirement-aware comparison, grounded assistance, and supplier-neutral RFQ generation.
+
+`Python` `Sentence Transformers` `FAISS` `Streamlit` `RAG`
+
+### 🤖 [Robot Project — Intelligent Interactive Systems](https://github.com/Zeesejo/iis-robot-project-win2025-2026)
+University robotics project covering mapping, localization, global path planning, navigation and motion control for a mobile robot.
+
+`ROS 2` `Python` `A*` `Navigation` `LiDAR`
+
+### 🧠 [EEG Motor Imagery Classification](https://github.com/Zeesejo/eeg-motor-imagery-classification)
+Machine-learning work on EEG motor-imagery classification and biosignal processing.
+
+`Python` `EEG` `Signal Processing` `Machine Learning`
+
+### 🫁 [Pneumothorax Shortcut-Learning Research](https://github.com/Zeesejo/pneumothorax-shortcut-learning)
+Experimental medical-imaging work investigating shortcut learning and robustness in pneumothorax classification.
+
+`PyTorch` `Medical Imaging` `Robustness` `Explainability`
 
 ---
 
-## 🚀 Open Source Contributions
+## Research & engineering interests
 
-**Merged PRs in major repos** (2025-2026):
+- **Medical AI:** multi-label radiograph classification, XAI, robustness, fairness, calibration
+- **Robotics:** ROS 2, navigation, planning, perception and autonomous systems
+- **Multimodal ML:** biosignals, temporal data and representation learning
+- **Applied AI:** semantic search, retrieval-augmented systems and ML tooling
+- **Reproducibility:** experiment tracking, deterministic evaluation and transparent reporting
 
-## Open Source Contributions---
+## Core stack
 
-lf.R.choice`
-- 🎯 **Project-MONAI/MONAI** [✓ #8818](https://github.com/Project-MONAI/MONAI/pull/8818) | `fix: use register_buffer for kernel in LocalNormalizedCrossCorrelationLoss`  
-- 🎯 **dfki-ric/deformable_gym** [✓ #73](https://github.com/dfki-ric/deformable_gym/pull/73) | `Fix #62: Update MJCF files to support MuJoCo >= 3.2.4`
+**Languages:** Python · C++ · SQL · Bash  
+**ML/CV:** PyTorch · scikit-learn · OpenCV · timm · Hugging Face  
+**Robotics:** ROS 2 · RViz · Gazebo  
+**Engineering:** Git · Linux · Docker · FastAPI · GitHub Actions · W&B
 
-**Active PRs / Issues:**
+---
 
-- 🛠️ **Project-MONAI/MONAI** [#8866](https://github.com/Project-MONAI/MONAI/issues/8866) | Bug report: `GlobalMutualInformationLoss` buffer registration issue
-- 🛠️ **roboflow/supervision** [#2205](https://github.com/roboflow/supervision/pull/2205), [#2204](https://github.com/roboflow/supervision/pull/2204) | CSV area column + audio preservation fixes
+## Open source
 
-| **Pneumothorax Detection** | Chest X-ray classifier with shortcut learning mitigation using deep learning | PyTorch, OpenCV, DICOM | 🥇 1st Prize — UBRA Bremen AI in Health Hackathon |
-| **Smart Patient System** | Multilingual bedside hospital info system with NLP-powered Q&A | Python, FastAPI, HuggingFace | 🥈 2nd Place — BRIDGE "Start it up! Gesundheit" |
-| **Medical Image Super-Resolution** | WGAN-GP + Self-Attention architecture, PSNR/SSIM optimised | PyTorch, TorchVision | Enhanced perceptual quality vs baselines |
-| **Cybersecurity Threat Detection** | Phishing/spam/non-SSL ML detection pipeline | scikit-learn, XGBoost | 📄 Paper accepted — AISP 2024 |
-| **Career Pathway Recommender** | ML/DL personalised career recommendations using embeddings | PyTorch, Transformers | 📄 Paper accepted — ICAAICS 2024 |
+I also contribute fixes and improvements to established open-source projects in medical imaging, robotics and computer vision. See my [pull requests](https://github.com/pulls?q=is%3Apr+author%3AZeesejo) for current and merged contributions.
 
-<br/>
+---
 
-## 💼 Experience
+## Current focus
 
-```
-🏢  09/2023 – Present    Founder & CEO           @ Litends               (AI & Digital Solutions Studio)
-## Experience📊  11/2024 – 12/2024    Data Scientist          @ Accenture Forage       (Job Simulation)
-```
+I am currently strengthening **MedVision-AI** into a reproducible medical-imaging research project: consolidating the training pipeline, reproducing historical baselines, preserving raw predictions and experiment provenance, and preparing controlled loss/backbone/SSL experiments for a future publication.
 
-## 🎓 Education
-
-```
-🎓  10/2025 – Present    M.Sc. AI & Intelligent Systems (AIIS)    @ University of Bremen, Germany
-## Education✈️  01/2023 – 06/2023    Exchange Semester (Computer Science)      @ Bilkent University, Ankara
-```
-
-<br/>
-
-## What I'm Looking For
-<div align="center">
-
-| Role Type | Format | Location |
-|---|---|---|
-| 🎓 Werkstudent (Working Student) | Part-time (20h/week) | Bremen · Hamburg · Remote |
-| 🏢 Junior AI/ML Engineer | Full-time | Germany · Remote (EU) |
-| 🔬 Research Assistant (HiWi) | Part-time | University of Bremen |
-| 🚀 AI Internship | 3–6 months | Germany · Remote |
-
-</div>
-
-**Core strengths recruiters care about:**
-- ✅ Published research (2× conference papers, 2024)
-- ✅ Hackathon wins with real medical AI impact (Bremen-based)
-- ✅ Production-ready ML pipelines (Docker · FastAPI · MLflow · CI/CD)
-- ✅ Based in Bremen, EU work authorisation via student visa
-
-<br/>
-
-## 🌍 Languages
-
-<div align="center">
-
-![English](https://img.shields.io/badge/English-C1_Advanced-A855F7?style=flat-square&logoColor=white)
-![German](https://img.shields.io/badge/German-A2%E2%86%92B1-555555?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Native-FF6F00?style=flat-square)
-![Urdu](https://img.shields.io/badge/Urdu-B2-9B59B6?style=flat-square)
-![Turkish](https://img.shields.io/badge/Turkish-A2-E74C3C?style=flat-square)
-![Punjabi](https://img.shields.io/badge/Punjabi-A2-27AE60?style=flat-square)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Zeesejo/Zeesejo/main/assets/footer.svg?v=3" width="100%" />
+> Research results in repositories are reported as experimental results unless a linked paper explicitly states that the work has been peer reviewed or published.
